@@ -46,3 +46,5 @@ Organización Simplificada: Permitir a los músicos organizar y coordinar evento
 La Red Musical Interactiva representa una oportunidad única para revolucionar la manera en que los músicos colaboran y organizan su trabajo. A medida que avanzamos en el desarrollo, estamos comprometidos a construir una plataforma que sea accesible, intuitiva y valiosa para la comunidad musical.
 
 Agradecemos su interés y apoyo en este emocionante proyecto. Estamos convencidos de que la Red Musical Interactiva será un recurso invaluable para músicos de todo el mundo.
+
+Link Repositorio https://github.com/arimasama/RedScoreProject.git
